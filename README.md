@@ -1,2 +1,5 @@
 # -Recognition-of-Colors
-This is a software developed for me.  
+
+This program was developed based on the AForge.NET library for C # .
+
+Link: http://www.aforgenet.com
