@@ -1,8 +1,10 @@
 # Color Recognition
 
-This program was developed based on the AForge.NET library for C # .
+This program was developed based on the AForge.NET library for C#.
 
 Framework link's: http://www.aforgenet.com
+
+The program I use to develop is: Microsoft Visual C# 2010 Express.
 
 GUI image capture:
 
