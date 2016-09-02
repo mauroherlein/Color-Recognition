@@ -2,4 +2,6 @@
 
 This program was developed based on the AForge.NET library for C # .
 
-Link: http://www.aforgenet.com
+Framework link's: http://www.aforgenet.com
+
+Contact: herlein.mauro@gmail.com
