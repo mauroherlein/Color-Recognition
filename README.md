@@ -8,6 +8,7 @@ The program I use to develop is: Microsoft Visual C# 2010 Express.
 
 GUI image capture:
 
-![alt tag](https://scontent-eze1-1.xx.fbcdn.net/v/t34.0-12/12168080_10206811574100778_1317639478_n.jpg?oh=40d79163afdd10c17202ef6ecfc1b48d&oe=57CB0719)
+![12171558_10206811574100778_1317639478_o](https://cloud.githubusercontent.com/assets/15913938/21166825/c88fe172-c186-11e6-882d-b169bb3f3b52.jpg)
+
 
 Contact: herlein.mauro@gmail.com
